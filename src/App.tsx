@@ -55,8 +55,8 @@ function App() {
               </div>
             )}
 
-            <h1>mayaaaaaaaaa ❤️</h1>
-            <h2>Will you be my Valentine?</h2>
+            <h1>alooooo ❤️</h1>
+            <h2>Will you be my best friend?</h2>
 
             <div className="buttons">
               <button
@@ -98,8 +98,6 @@ function App() {
           <h1>omg omg omg omg 🎉💘</h1>
           <p>
             You just made me the happiest person ever.
-            <br />
-            Can’t wait for our Valentine’s date ❤️
           </p>
         </div>
       )}
